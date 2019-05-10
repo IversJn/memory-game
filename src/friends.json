@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Thor",
+    "image": "https://officialpsds.com/imageview/r6/qm/r6qmv2_large.png?1521316545",
+    "clicked": 0
+  },
+  {
+    "id": 2,
+    "name": "Iron Man",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dc5rmwg-2249ecd6-106c-4a27-9198-f640dfc658cf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGM1cm13Zy0yMjQ5ZWNkNi0xMDZjLTRhMjctOTE5OC1mNjQwZGZjNjU4Y2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.ReKW3k13IFezchIaReKGjFXMQTxFDggrWEDVX8MMfXY",
+    "clicked": 0
+  },
+  {
+    "id": 3,
+    "name": "Ant-Man",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/avengers-characterpose-antman_678e990a.png?region=0%2C0%2C168%2C279",
+    "clicked": 0
+  },
+  {
+    "id": 4,
+    "name": "Wasp",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5b8d2b12-21e8-4931-8a6d-fb9ecdd60383/dcmgbvj-65346078-b774-4130-b45d-4b06383c54fe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzViOGQyYjEyLTIxZTgtNDkzMS04YTZkLWZiOWVjZGQ2MDM4M1wvZGNtZ2J2ai02NTM0NjA3OC1iNzc0LTQxMzAtYjQ1ZC00YjA2MzgzYzU0ZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.fgQdu88ZGYhkOfNmTcnWj1jxEV1n0QZLfL77M38iVCg",
+    "clicked": 0
+  },
+  {
+    "id": 5,
+    "name": "Hulk",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/59/Hulk_%28comics_character%29.png",
+    "clicked": 0
+  },
+  {
+    "id": 6,
+    "name": "Captain America",
+    "image": "http://pngimg.com/uploads/captain_america/captain_america_PNG50.png",
+    "clicked": 0
+  },
+  {
+    "id": 7,
+    "name": "Captain Marvel",
+    "image": "https://pngmafia.net/image/2019/01/9721560a2bfd7161b4ba469b7b379896.png",
+    "clicked": 0
+  },
+  {
+    "id": 8,
+    "name": "Vision",
+    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/3a1b02a9-0ca7-4130-810e-c6db42004a20/d8knln6-4235d20d-1101-40d5-b624-1f7397c4b99b.png/v1/fill/w_600,h_909,strp/vision_from_marvel_s_the_avengers_aou_png_render_by_joaohbd_d8knln6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTA5IiwicGF0aCI6IlwvZlwvM2ExYjAyYTktMGNhNy00MTMwLTgxMGUtYzZkYjQyMDA0YTIwXC9kOGtubG42LTQyMzVkMjBkLTExMDEtNDBkNS1iNjI0LTFmNzM5N2M0Yjk5Yi5wbmciLCJ3aWR0aCI6Ijw9NjAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.844luz--281y9Q1wdPuddmkCk4s3vM6J4G7gK7KsmPE",
+    "clicked": 0
+  },
+  {
+    "id": 9,
+    "name": "Black Widow",
+    "image": "https://unixtitan.net/images/avengers-clipart-black-widow-7.png",
+    "clicked": 0
+  },
+  {
+    "id": 10,
+    "name": "Star Lord",
+    "image": "https://unixtitan.net/images/starlord-drawing-comic-3.png",
+    "clicked": 0
+  },
+  {
+    "id": 11,
+    "name": "Gamora",
+    "image": "https://lumiere-a.akamaihd.net/v1/images/guardians-characterpose-gamora_d4ecf610.png?region=0%2C0%2C154%2C280",
+    "clicked": 0
+  },
+  {
+    "id": 12,
+    "name": "Spiderman",
+    "image": "http://pngimg.com/uploads/spider_man/spider_man_PNG42.png",
+    "clicked": 0
+  }
+]
